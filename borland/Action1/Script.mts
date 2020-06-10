@@ -1,0 +1,20 @@
+﻿Window("Program Manager").WinListView("SysListView32").Click 467,136 @@ hightlight id_;_65798_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Home").WebList("quick-link:jump-menu").Select "Auto Quote" @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Home").WebList("quick-link:jump-menu")_;_script infofile_;_ZIP::ssf2.xml_;_
+Browser("InsuranceWeb: Home").InsightObject("InsightObject").Click @@ hightlight id_;_1_;_script infofile_;_ZIP::ssf3.xml_;_
+Window("Internet Explorer").WinObject("Text").Type "75006" @@ hightlight id_;_132176_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("InsuranceWeb: Home").InsightObject("InsightObject_2").Click @@ hightlight id_;_7_;_script infofile_;_ZIP::ssf5.xml_;_
+Window("Internet Explorer").WinObject("Text").Type "2@2.com" @@ hightlight id_;_132176_;_script infofile_;_ZIP::ssf6.xml_;_
+Browser("InsuranceWeb: Home").InsightObject("InsightObject_3").Click @@ hightlight id_;_20_;_script infofile_;_ZIP::ssf7.xml_;_
+Browser("InsuranceWeb: Home").InsightObject("InsightObject_4").Click @@ hightlight id_;_25_;_script infofile_;_ZIP::ssf8.xml_;_
+Browser("InsuranceWeb: Home").InsightObject("InsightObject_5").Click @@ hightlight id_;_29_;_script infofile_;_ZIP::ssf9.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").WebEdit("autoquote:age").Set "66" @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").WebEdit("autoquote:age")_;_script infofile_;_ZIP::ssf10.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").WebRadioGroup("autoquote:gender").Select "Male" @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").WebRadioGroup("autoquote:gender")_;_script infofile_;_ZIP::ssf11.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").WebRadioGroup("autoquote:type").Select "Good" @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").WebRadioGroup("autoquote:type")_;_script infofile_;_ZIP::ssf12.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").Image("autoquote:next").Click 37,7 @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile").Image("autoquote:next")_;_script infofile_;_ZIP::ssf13.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile_2").WebEdit("autoquote:year").Set "1999" @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile 2").WebEdit("autoquote:year")_;_script infofile_;_ZIP::ssf14.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile_2").Image("AMDAwAAAACH5BAEAAAAALAAAAAABAA").Click @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile 2").Image("AMDAwAAAACH5BAEAAAAALAAAAAABAA")_;_script infofile_;_ZIP::ssf15.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile_2").WebElement("Cadillac").Click @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile 2").WebElement("Cadillac")_;_script infofile_;_ZIP::ssf16.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile_2").Image("AMDAwAAAACH5BAEAAAAALAAAAAABAA_2").Click @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile 2").Image("AMDAwAAAACH5BAEAAAAALAAAAAABAA 2")_;_script infofile_;_ZIP::ssf17.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile_2").WebElement("Eldorado").Click @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile 2").WebElement("Eldorado")_;_script infofile_;_ZIP::ssf18.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile_2").WebRadioGroup("autoquote:finInfo").Select "Own" @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile 2").WebRadioGroup("autoquote:finInfo")_;_script infofile_;_ZIP::ssf19.xml_;_
+Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile_2").Image("autoquote:next").Click 42,10 @@ hightlight id_;_Browser("InsuranceWeb: Home").Page("InsuranceWeb: Automobile 2").Image("autoquote:next")_;_script infofile_;_ZIP::ssf20.xml_;_

@@ -1,0 +1,1 @@
+-usr "C:\Users\demo\June8\Demoing\Demoing.usr" -msg_suffix_enable 0 -out "C:\Users\demo\June8\Demoing\" -drv_log_file "C:\Users\demo\June8\Demoing\mdrv.log" -cfg "C:\Users\demo\June8\Demoing\default.cfg" -product_name vugen
